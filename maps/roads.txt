@@ -1,6 +1,6 @@
 //Local Roads
 ["-92,497","2,497","Local"]
-["-210,497","-92,497","Local"]
+["-210,497","-92,497","Local","ul. Kardynalska"]
 //Regional Roads
 ["-210,413","-210,497","Regional"]
 ["-210,586","-210,497","Regional"]
