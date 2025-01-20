@@ -10,3 +10,4 @@
 //City Tags
 ["-81,459","City","Ognisty Las","0"]
 ["182,802","Town","Piastów","0.06"]
+["-254,619","Village","Bobrów","0.11"]
