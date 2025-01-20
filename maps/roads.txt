@@ -1,6 +1,6 @@
 //Local Roads
-["-92,497","2,497","Local","ul. Kardynalska"]
-["-210,497","-92,497","Local","ul. Kardynalska"]
+["-92,497","2,497","Local","ul. 19 października"]
+["-210,497","-92,497","Local","ul. 19 października"]
 //Regional Roads
 ["-210,413","-210,497","Regional"]
 ["-210,586","-210,497","Regional"]
@@ -11,6 +11,7 @@
 ["-92,497","-92,586","Regional","ul. Palidąbska"]
 ["-92,586","-92,633","Regional","ul. Palidąbska"]
 //National Roads
-["117,413","-338,413","National"]
+["117,413","-338,413","National","ul. Górzycka"]
+["2,413","2,497","National","ul. Dzielniczna"]
 //Expressways
 ["-944,670","0,670","Expressway"]
