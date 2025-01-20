@@ -12,6 +12,10 @@
 ["-92,586","-92,633","Regional","ul. Palidąbska"]
 //National Roads
 ["117,413","-338,413","National","ul. Górzycka"]
-["2,413","2,497","National","ul. Dzielniczna"]
+["2,413","2,497","National","ul. Dzielnicowa"]
+["2,497","2,516","National"]
+["2,516","2,586","National","ul. Dzielnicowa"]
+["2,586","2,633","National","ul. Dzielnicowa"]
+["2,633","-49,633","National","ul. Dzielnicowa"]
 //Expressways
 ["-944,670","0,670","Expressway"]
