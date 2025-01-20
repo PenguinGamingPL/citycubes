@@ -1,11 +1,12 @@
+//Regional Roads
 ["-210,413","-210,497","Regional"]
 ["-210,586","-210,497","Regional"]
 ["-298,586","-210,586","Regional"]
 ["-210,586","-136,586","Regional"]
 ["-136,586","-92,586","Regional"]
-
+//National Roads
 ["117,413","-338,413","National"]
 ["-92,413","-92,586","National"]
 ["-92,586","-92,633","National"]
-
+//Expressways
 ["-944,670","0,670","Expressway"]
