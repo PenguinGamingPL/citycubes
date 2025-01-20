@@ -4,9 +4,9 @@
 //Regional Roads
 ["-210,413","-210,497","Regional"]
 ["-210,586","-210,497","Regional"]
-["-298,586","-210,586","Regional","ul. PRL-owska"]
-["-210,586","-92,586","Regional","ul. Handlowa"]
-["-136,586","-92,586","Regional","ul. PRL-owska"]
+["-298,586","-210,586","Regional"]
+["-210,586","-136,586","Regional","ul. PRL-owska"]
+["-136,586","-92,586","Regional"]
 ["-92,413","-92,497","Regional","ul. Palidąbska"]
 ["-92,497","-92,586","Regional","ul. Palidąbska"]
 ["-92,586","-92,633","Regional","ul. Palidąbska"]
