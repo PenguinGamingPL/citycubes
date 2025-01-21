@@ -9,6 +9,8 @@
 //Expressways
 ["-170,670","Red","A2","0"]
 //City Tags
+Rep. Nadmorska
 ["-81,459","City","Ognisty Las","0"]
 ["182,802","Town","Piastów","0.06"]
 ["-254,619","Village","Bobrów","0.11"]
+["306,1068","Village","Wieś Malawska","0.11"]
