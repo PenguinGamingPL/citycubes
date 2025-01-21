@@ -1,6 +1,13 @@
 //Local Roads
+Ognisty Las
 ["-92,497","2,497","Local","ul. 19 października"]
 ["-210,497","-92,497","Local","ul. 19 października"]
+Kwaśniewice
+["505,816","505,965","Local"]
+["505,965","570,965","Local"]
+["570,965","692,965","Local"]
+["570,965","570,816","Local"]
+["692,965","692,816","Local"]
 //Regional Roads
 ["-210,413","-210,497","Regional"]
 ["-210,586","-210,497","Regional"]
