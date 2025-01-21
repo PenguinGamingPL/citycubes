@@ -19,6 +19,11 @@ Kwaśniewice
 ["-92,586","-92,633","Regional","ul. Palidąbska"]
 ["-92,633","-49,633","Regional","ul. Palidąbska"]
 //National Roads
+(1)
+["286,803","286,1078","National"]
+["286,1078","258,1078","National"]
+["258,1078","258,1138","National"]
+["286,803","286,768","National"]
 (2)
 ["117,413","-338,413","National","ul. Górzycka"]
 (40)
