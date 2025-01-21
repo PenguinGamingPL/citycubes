@@ -10,12 +10,24 @@
 ["-92,413","-92,497","Regional","ul. Palidąbska"]
 ["-92,497","-92,586","Regional","ul. Palidąbska"]
 ["-92,586","-92,633","Regional","ul. Palidąbska"]
+["-92,633","-49,633","Regional","ul. Palidąbska"]
 //National Roads
+(2)
 ["117,413","-338,413","National","ul. Górzycka"]
+(40)
 ["2,413","2,497","National","ul. Dzielnicowa"]
 ["2,497","2,516","National"]
 ["2,516","2,586","National","ul. Dzielnicowa"]
 ["2,586","2,633","National","ul. Dzielnicowa"]
 ["2,633","-49,633","National","ul. Dzielnicowa"]
+["-49,633","-49,702","National"]
+["-49,702","-49,721","National"]
+["-49,721","-23,721","National"]
+["-23,721","-23,803","National"]
+["-23,803","150,803","National"]
+["150,803","172,803","National"]
+["172,803","194,803","National"]
+["194,803","259,803","National"]
+["259,803","286,803","National"]
 //Expressways
 ["-944,670","0,670","Expressway"]
