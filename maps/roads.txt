@@ -1,4 +1,7 @@
 Republika Nadmorska
+//Borders
+["200,1138","500,1138","Border"]
+
 //Local Roads
 Ognisty Las
 ["-92,497","2,497","Local","ul. 19 października"]
