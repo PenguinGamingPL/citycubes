@@ -1,3 +1,4 @@
+REPUBLIKA NADMORSKA
 //Regional Roads
 ["-257,586","Yellow","100","0.26"]
 ["-210,500","Yellow","101","0.26"]
@@ -13,9 +14,12 @@
 //Expressways
 ["-170,670","Red","A2","0.06"]
 //City Tags
-Rep. Nadmorska
+Cities
 ["-81,459","City","Ognisty Las","0"]
 ["182,802","Town","Piastów","0.11"]
 ["-68,810","Town","Palidąb","0.06"]
 ["-254,619","Village","Bobrów","0.11"]
 ["306,1068","Village","Wieś Malawska","0.11"]
+CHORWACJA
+//Expressways
+["1001,4791","Green","A1","0.06"]
