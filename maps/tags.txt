@@ -22,4 +22,4 @@ Cities
 ["306,1068","Village","Wieś Malawska","0.11"]
 CHORWACJA
 //Expressways
-["1001,4791","Green","A1","0.06"]
+["1001,4791","Green","A 1","0.06"]
