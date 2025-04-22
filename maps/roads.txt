@@ -68,7 +68,9 @@ Palidąb
 Chorwacja
 //Expressways
 ["880,4792","1111,4792","Expressway"]
-
+["1111,4792","1211,4792","Expressway"]
+//National Roads
+["1111,4792","1111,4900","National"]
 //BORDERS
 Republika Nadmorska/Czechy
 ["200,1138","500,1138","Border"]
