@@ -1,3 +1,4 @@
+Republika Nadmorska
 //Local Roads
 Ognisty Las
 ["-92,497","2,497","Local","ul. 19 października"]
@@ -63,3 +64,6 @@ Palidąb
 ["692,816","692,788","National"]
 //Expressways
 ["-944,670","0,670","Expressway"]
+Chorwacja
+//Expressways
+["880,4792","1111,4792","Expressway"]
