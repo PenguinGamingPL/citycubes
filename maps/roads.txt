@@ -73,4 +73,4 @@ Chorwacja
 ["1111,4792","1111,4900","National"]
 //BORDERS
 Republika Nadmorska/Czechy
-["200,1138","500,1138","Border"]
+["100,1138","900,1138","Border"]
