@@ -1,6 +1,4 @@
 Republika Nadmorska
-//Borders
-["200,1138","500,1138","Border"]
 
 //Local Roads
 Ognisty Las
@@ -70,3 +68,7 @@ Palidąb
 Chorwacja
 //Expressways
 ["880,4792","1111,4792","Expressway"]
+
+//BORDERS
+Republika Nadmorska/Czechy
+["200,1138","500,1138","Border"]
