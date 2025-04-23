@@ -14,12 +14,14 @@ REPUBLIKA NADMORSKA
 //Expressways
 ["-170,670","Red","A2","0.06"]
 //City Tags
-Cities
 ["-81,459","City","Ognisty Las","0"]
 ["182,802","Town","Piastów","0.11"]
 ["-68,810","Town","Palidąb","0.06"]
 ["-161,577","Village","Bobrów","0.11"]
 ["306,1068","Village","Wieś Malawska","0.11"]
+NIEMCY
+//City Tags
+["-285,622","Village","Nikolausville","0.11"]
 CHORWACJA
 //Expressways
 ["1001,4791","Green","A1","0.06"]
