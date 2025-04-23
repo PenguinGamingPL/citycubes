@@ -83,3 +83,4 @@ Republika Nadmorska/Czechy
 Rep. Nad./Niemcy
 ["-344,690","-344,653","Border"]
 ["-255,577","-255,653","Border"]
+["-344,653","-255,653","Border"]
