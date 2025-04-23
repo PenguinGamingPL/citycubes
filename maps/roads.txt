@@ -80,3 +80,6 @@ Chorwacja
 //BORDERS
 Republika Nadmorska/Czechy
 ["100,1138","900,1138","Border"]
+Rep. Nad./Niemcy
+["-344,690","-344,653","Border"]
+["-255,577","-255,653","Border"]
