@@ -47,6 +47,8 @@ Mikołeska
 (2)
 
 (40)
+["55,724","55,803","National","Two"]
+
 ["2,413","2,497","National","Two","ul. Dzielnicowa"]
 ["2,497","2,516","National","Two"]
 ["2,516","2,586","National","Two","ul. Dzielnicowa"]
@@ -94,7 +96,7 @@ Palidąb
 ["39,725","55,725","Ramp","Two"]
 On ramp
 ["20,701","27,689","Ramp","One"]
-["28,689","44,678","Ramp","One"]
+["27,689","44,678","Ramp","One"]
 Off ramp
 ["-4,678","13,689","Ramp","One"]
 ["13,689","20,701","Ramp","One"]
