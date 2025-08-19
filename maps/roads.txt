@@ -21,6 +21,11 @@ Palidąb
 ["-73,905","-132,905","Local","Two"]
 ["-132,905","-132,769","Local","Two"]
 ["-132,769","-73,769","Local","Two"]
+["-49,721","-49,850","Local","Two"]
+["-49,702","-49,721","Local","Two"]
+["-49,721","-23,721","Local","Two"]
+["-23,721","-23,803","Local","Two"]
+["-23,803","55,803","Local","Two"]
 Mikołeska
 ["-298,586","-298,611","Local","Two"]
 ["-298,611","-298,646","Local","Two"]
@@ -38,7 +43,7 @@ Mikołeska
 ["-92,586","-92,633","Regional","Two","ul. Palidąbska"]
 ["-92,633","-49,633","Regional","Two","ul. Palidąbska"]
 (104)
-["-49,721","-49,850","Regional","Two"]
+
 //National Roads
 (1)
 ["286,803","286,1078","National","Two"]
@@ -54,10 +59,6 @@ Mikołeska
 ["2,516","2,586","National","Two","ul. Dzielnicowa"]
 ["2,586","2,633","National","Two","ul. Dzielnicowa"]
 ["2,633","-49,633","National","Two","ul. Dzielnicowa"]
-["-49,702","-49,721","National","Two"]
-["-49,721","-23,721","National","Two"]
-["-23,721","-23,803","National","Two"]
-["-23,803","55,803","National","Two"]
 ["55,803","150,803","National","Two","ul. Palidąbska"]
 ["150,803","172,803","National","Two","ul. Palidąbska"]
 ["172,803","194,803","National","Two","ul. Palidąbska"]
