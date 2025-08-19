@@ -52,7 +52,6 @@ Mikołeska
 ["2,516","2,586","National","Two","ul. Dzielnicowa"]
 ["2,586","2,633","National","Two","ul. Dzielnicowa"]
 ["2,633","-49,633","National","Two","ul. Dzielnicowa"]
-["-49,633","-49,702","National","Two"]
 ["-49,702","-49,721","National","Two"]
 ["-49,721","-23,721","National","Two"]
 ["-23,721","-23,803","National","Two"]
@@ -75,15 +74,15 @@ Dir: Hamburg
 Dir: Radlin
 ["-344,678","-4,678","Expressway","One"]
 Exit: Ognisty Las/Palidąb
-["58,615","39,615","National","Two"]
-["39,615","25,622","National","Two"]
-["25,622","20,639","National","Two"]
+["58,615","39,615","Ramp","Two"]
+["39,615","25,622","Ramp","Two"]
+["25,622","20,639","Ramp","Two"]
 On ramp
-["20,639","13,651","National","One"]
-["13,651","-4,662","National","One"]
+["20,639","13,651","Ramp","One"]
+["13,651","-4,662","Ramp","One"]
 Off ramp
-["44,662","27,651","National","One"]
-["27,651","20,639","National","One"]
+["44,662","27,651","Ramp","One"]
+["27,651","20,639","Ramp","One"]
 
 Croatia
 //Expressways
