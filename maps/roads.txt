@@ -4,6 +4,19 @@ Poland
 Ognisty Las
 ["-92,497","2,497","Local","Two","ul. 19 października"]
 ["-210,497","-92,497","Local","Two","ul. 19 października"]
+["2,413","2,497","Local","Two","ul. Dzielnicowa"]
+["2,497","2,516","Local","Two","ul. Dzielnicowa"]
+["2,516","2,586","Local","Two","ul. Dzielnicowa"]
+["2,586","2,633","Local","Two","ul. Dzielnicowa"]
+["2,633","-49,633","Local","Two","ul. Dzielnicowa"]
+["-92,586","-92,633","Local","Two","ul. Palidąbska"]
+["-92,633","-49,633","Local","Two","ul. Palidąbska"]
+["-210,413","-210,497","Regional","Two","ul. Zachodnia"]
+["-210,586","-210,497","Regional","Two","ul. Zachodnia"]
+BOBRÓW
+["-210,586","-210,624","Local","Two"]
+["-210,624","-136,624","Local","Two"]
+["-136,586","-136,624","Local","Two"]
 Kwaśniewice
 ["505,816","505,965","Local","Two"]
 ["505,965","570,965","Local","Two"]
@@ -26,24 +39,13 @@ Palidąb
 ["-49,721","-23,721","Local","Two"]
 ["-23,721","-23,803","Local","Two"]
 ["-23,803","55,803","Local","Two"]
-Mikołeska
-["-298,586","-298,611","Local","Two"]
-["-298,611","-298,646","Local","Two"]
-["-298,646","-261,646","Local","Two"]
-["-261,646","-261,611","Local","Two"]
-["-261,611","-298,611","Local","Two"]
 //Regional Roads
-["-210,413","-210,497","Regional","Two"]
-["-210,586","-210,497","Regional","Two"]
-["-298,586","-210,586","Regional","Two"]
+(100)
+["-255,586","-210,586","Regional","Two","ul. PRL-owska"]
 ["-210,586","-136,586","Regional","Two","ul. PRL-owska"]
-["-136,586","-92,586","Regional","Two"]
+["-136,586","-92,586","Regional","Two","ul. PRL-owska"]
 ["-92,413","-92,497","Regional","Two","ul. Palidąbska"]
 ["-92,497","-92,586","Regional","Two","ul. Palidąbska"]
-["-92,586","-92,633","Regional","Two","ul. Palidąbska"]
-["-92,633","-49,633","Regional","Two","ul. Palidąbska"]
-(104)
-
 //National Roads
 (1)
 ["286,803","286,1078","National","Two"]
@@ -52,13 +54,7 @@ Mikołeska
 (2)
 
 (40)
-["55,724","55,803","National","Two"]
-
-["2,413","2,497","National","Two","ul. Dzielnicowa"]
-["2,497","2,516","National","Two"]
-["2,516","2,586","National","Two","ul. Dzielnicowa"]
-["2,586","2,633","National","Two","ul. Dzielnicowa"]
-["2,633","-49,633","National","Two","ul. Dzielnicowa"]
+["55,725","55,803","National","Two"]
 ["55,803","150,803","National","Two","ul. Palidąbska"]
 ["150,803","172,803","National","Two","ul. Palidąbska"]
 ["172,803","194,803","National","Two","ul. Palidąbska"]
@@ -102,6 +98,14 @@ Off ramp
 ["-4,678","13,689","Ramp","One"]
 ["13,689","20,701","Ramp","One"]
 
+Germany
+Nikolausville
+["-298,586","-298,611","Local","Two"]
+["-298,611","-298,646","Local","Two"]
+["-298,646","-261,646","Local","Two"]
+["-261,646","-261,611","Local","Two"]
+["-261,611","-298,611","Local","Two"]
+
 Croatia
 //Expressways
 ["880,4792","1111,4792","Expressway","Two"]
@@ -112,6 +116,15 @@ Croatia
 Republika Nadmorska/Czechy
 ["100,1138","900,1138","Border"]
 Rep. Nad./Niemcy
-["-344,690","-344,653","Border"]
-["-255,577","-255,653","Border"]
-["-344,653","-255,653","Border"]
+["-255,703","-255,524","Border"]
+["-255,524","-265,525","Border"]
+["-265,525","-283,519","Border"]
+["-283,519","-295,517","Border"]
+["-295,517","-317,519","Border"]
+["-317,519","-350,512","Border"]
+["-350,512","-361,506","Border"]
+["-361,506","-363,499","Border"]
+["-363,499","-362,488","Border"]
+["-362,488","-371,475","Border"]
+["-371,475","-394,481","Border"]
+["-394,481","-417,477","Border"]
