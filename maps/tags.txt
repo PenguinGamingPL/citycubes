@@ -15,10 +15,12 @@ REPUBLIKA NADMORSKA
 ["-170,670","Red","A2","0.06"]
 //City Tags
 ["346,244","City","Górzyce","0"]
+Ognisty Las
+["-161,577","Village","BOBRÓW","0.11"]
+//
 ["-81,459","City","Ognisty Las","0"]
 ["182,802","Town","Piastów","0.06"]
 ["-68,810","Town","Palidąb","0.06"]
-["-161,577","Village","Bobrów","0.11"]
 ["306,1068","Village","Wieś Malawska","0.11"]
 NIEMCY
 //City Tags
