@@ -1,14 +1,14 @@
-REPUBLIKA NADMORSKA
+POLAND
 //Regional Roads
 ["-257,586","Yellow","100","0.26"]
 ["-93,508","Yellow","100","0.26"]
 ["-37,413","Yellow","100","0.26"]
 //National Roads
-["286,772","Red","1","0.11"]
 ["286,977","Red","1","0.11"]
 ["2,506","Red","40","0.11"]
 ["71,803","Red","40","0.11"]
 ["391,810","Red","40","0.11"]
+["692,905","Red","40","0.11"]
 //Expressways
 ["-170,670","Red","A2","0.06"]
 //City Tags
@@ -23,9 +23,11 @@ Ognisty Las
 ["182,802","Town","Piastów","0.06"]
 ["-68,810","Town","Palidąb","0.06"]
 ["306,1068","Village","Wieś Malawska","0.11"]
-NIEMCY
+GERMANY
+//Expressways
+["-738,670","Blue","2","0.06"]
 //City Tags
 ["-285,622","Village","Nikolausville","0.11"]
-CHORWACJA
+CROATIA
 //Expressways
 ["1001,4791","Green","A1","0.06"]
