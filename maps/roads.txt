@@ -71,8 +71,8 @@ Mikołeska
 ["692,816","692,788","National","Two"]
 //Expressways
 (A2)
-["-4,662","-344,662","National","One"]
-["-344,678","-4,678","National","One"]
+["-4,662","-344,662","Expressway","One"]
+["-344,678","-4,678","Expressway","One"]
 Croatia
 //Expressways
 ["880,4792","1111,4792","Expressway","Two"]
