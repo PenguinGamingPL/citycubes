@@ -44,7 +44,6 @@ Mikołeska
 ["286,803","286,1078","National","Two"]
 ["286,1078","258,1078","National","Two"]
 ["258,1078","258,1138","National","Two"]
-["286,803","286,768","National","Two"]
 (2)
 
 (40)
@@ -69,11 +68,23 @@ Mikołeska
 ["438,816","505,816","National","Two"]
 ["505,816","570,816","National","Two"]
 ["570,816","692,816","National","Two"]
-["692,816","692,788","National","Two"]
 //Expressways
 (A2)
+Dir: Hamburg
 ["-4,662","-344,662","Expressway","One"]
+Dir: Radlin
 ["-344,678","-4,678","Expressway","One"]
+Exit: Ognisty Las/Palidąb
+["58,615","39,615","National","Two"]
+["39,615","25,622","National","Two"]
+["25,622","20,639","National","Two"]
+On ramp
+["20,639","13,651","National","One"]
+["13,651","-4,662","National","One"]
+Off ramp
+["44,662","27,651","National","One"]
+["27,651","20,639","National","One"]
+
 Croatia
 //Expressways
 ["880,4792","1111,4792","Expressway","Two"]
