@@ -11,8 +11,8 @@ Ognisty Las
 ["2,633","-49,633","Local","Two","ul. Dzielnicowa"]
 ["-92,586","-92,633","Local","Two","ul. Palidąbska"]
 ["-92,633","-49,633","Local","Two","ul. Palidąbska"]
-["-210,413","-210,497","Regional","Two","ul. Zachodnia"]
-["-210,586","-210,497","Regional","Two","ul. Zachodnia"]
+["-210,413","-210,497","Local","Two","ul. Zachodnia"]
+["-210,586","-210,497","Local","Two","ul. Zachodnia"]
 BOBRÓW
 ["-210,586","-210,624","Local","Two"]
 ["-210,624","-136,624","Local","Two"]
