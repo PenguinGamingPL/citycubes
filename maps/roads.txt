@@ -70,10 +70,15 @@ Mikołeska
 //Expressways
 (A2)
 Dir: Hamburg
+["303,662","44,662","Expressway","One"]
+["44,662","-4,661","Expressway","One"]
 ["-4,662","-344,662","Expressway","One"]
 Dir: Radlin
 ["-344,678","-4,678","Expressway","One"]
+["-4,678","44,678","Expressway","One"]
+["44,678","303,678","Expressway","One"]
 Exit: Ognisty Las/Palidąb
+Ognisty Las
 ["58,615","39,615","Ramp","Two"]
 ["39,615","25,622","Ramp","Two"]
 ["25,622","20,639","Ramp","Two"]
@@ -83,6 +88,16 @@ On ramp
 Off ramp
 ["44,662","27,651","Ramp","One"]
 ["27,651","20,639","Ramp","One"]
+Palidąb
+["20,701","26,719","Ramp","Two"]
+["26,719","39,725","Ramp","Two"]
+["39,725","55,725","Ramp","Two"]
+On ramp
+["20,701","27,689","Ramp","One"]
+["28,689","44,678","Ramp","One"]
+Off ramp
+["-4,678","13,689","Ramp","One"]
+["13,689","20,701","Ramp","One"]
 
 Croatia
 //Expressways
