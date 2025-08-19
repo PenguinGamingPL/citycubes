@@ -71,7 +71,7 @@ Mikołeska
 (A2)
 Dir: Hamburg
 ["303,662","44,662","Expressway","One"]
-["44,662","-4,661","Expressway","One"]
+["44,662","-4,662","Expressway","One"]
 ["-4,662","-344,662","Expressway","One"]
 Dir: Radlin
 ["-344,678","-4,678","Expressway","One"]
