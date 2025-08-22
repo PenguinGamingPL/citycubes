@@ -39,6 +39,19 @@ Palidąb
 ["-49,721","-23,721","Local","Two"]
 ["-23,721","-23,803","Local","Two"]
 ["-23,803","55,803","Local","Two"]
+Piastów
+["194,803","194,843","Local","Two","ul. Sportowa"]
+["194,843","194,879","Local","Two","ul. Sportowa"]
+["194,879","194,965","Local","Two","ul. Sportowa"]
+["194,751","194,803","Local","Two","ul. Sportowa"]
+["150,803","150,870","Local","Two","ul. Słoneczna"]
+["150,870","159,879","Local","Two","ul. Słoneczna"]
+["159,879","194,879","Local","Two","ul. Słoneczna"]
+["194,879","256,879","Local","Two","ul. Słoneczna"]
+["256,879","263,872","Local","Two","ul. Słoneczna"]
+["263,872","263,850","Local","Two","ul. Słoneczna"]
+["263,850","256,843","Local","Two","ul. Słoneczna"]
+["256,843","194,843","Local","Two","ul. Słoneczna"]
 //Regional Roads
 (100)
 ["-255,586","-210,586","Regional","Two","ul. PRL-owska"]
