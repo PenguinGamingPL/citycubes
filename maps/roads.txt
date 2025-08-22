@@ -89,6 +89,11 @@ Piastów
 ["438,816","505,816","National","Two"]
 ["505,816","570,816","National","Two"]
 ["570,816","692,816","National","Two"]
+//Obwodnica Ognistego Lasu
+["55,725","55,629","National","Two"]
+["55,629","61,619","National","Two"]
+["61,619","69,615","National","Two"]
+["61,619","58,615","National","Two"]
 //Expressways
 (A2)
 Dir: Hamburg
