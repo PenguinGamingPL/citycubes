@@ -4,6 +4,7 @@ Poland
 Ognisty Las
 ["-92,497","2,497","Local","Two","ul. 19 października"]
 ["-210,497","-92,497","Local","Two","ul. 19 października"]
+["2,497","58,497","Local","Two","ul. 19 października"]
 ["2,413","2,497","Local","Two","ul. Dzielnicowa"]
 ["2,497","2,516","Local","Two","ul. Dzielnicowa"]
 ["2,516","2,586","Local","Two","ul. Dzielnicowa"]
@@ -13,6 +14,11 @@ Ognisty Las
 ["-92,633","-49,633","Local","Two","ul. Palidąbska"]
 ["-210,413","-210,497","Local","Two","ul. Zachodnia"]
 ["-210,586","-210,497","Local","Two","ul. Zachodnia"]
+["58,413","58,497","Local","Two","ul. Kredowa"]
+["58,497","58,586","Local","Two","ul. Kredowa"]
+["58,586","58,615","Local","Two","ul. Kredowa"]
+["-92,586","2,586","Local","Two","ul. Technologiczna"]
+["2,586","58,586","Local","Two","ul. Technologiczna"]
 BOBRÓW
 ["-210,586","-210,624","Local","Two"]
 ["-210,624","-136,624","Local","Two"]
@@ -52,6 +58,10 @@ Piastów
 ["263,872","263,850","Local","Two","ul. Słoneczna"]
 ["263,850","256,843","Local","Two","ul. Słoneczna"]
 ["256,843","194,843","Local","Two","ul. Słoneczna"]
+["172,803","172,751","Local","Two","ul. Bolesława Chrobrego"]
+["172,751","172,699","Local","Two","ul. Bolesława Chrobrego"]
+["194,751","172,751","Local","Two","ul. Mieszka I"]
+["172,751","55,751","Local","Two","ul. Mieszka I"]
 //Regional Roads
 (100)
 ["-255,586","-210,586","Regional","Two","ul. PRL-owska"]
